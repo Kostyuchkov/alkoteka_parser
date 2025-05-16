@@ -1,4 +1,3 @@
-# alkoteka/spiders/alkoteka_api.py
 import json
 import time
 import scrapy
