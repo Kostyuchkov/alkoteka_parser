@@ -1,0 +1,21 @@
+# python / scrapy
+__pycache__/
+*.py[cod]
+.eggs/
+*.egg-info/
+
+# artefacts
+result.json
+cat*
+proxies.txt         
+
+# env
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
